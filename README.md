@@ -14,7 +14,7 @@
 1. 📥 Clone the repository:
 
 ```
-git clone https://github.com/your-username/accident-analysis.git
+https://github.com/Debolina10Chatterjee/PRODIGY_DS_05.git
 ```
 
 2. 🚀 Open and run the "accident_analysis.ipynb" notebook in Colab Notebook to execute the Python code cells and visualize the data analysis.
